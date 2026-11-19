@@ -9,10 +9,6 @@ It is the training project of the **NumericSlick Product Engineering Bootcamp**.
 > no database, and no external service. Adding or removing a lead only changes the copy
 > in your browser, so nothing is saved when you reload the page.
 
-> **Status: setup guide only.** The application source code will be published to this
-> repository before your session. Until then, `npm install` and `npm run dev` will not work
-> here. Make sure your computer meets the system requirements below so you are ready.
-
 ---
 
 ## Technology stack
